@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.sqlite*
+*.db*
+.runtime/
+artifacts/
+*.log
+__pycache__/
+.env
+.env.*
+!.env.example
